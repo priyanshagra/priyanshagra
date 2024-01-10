@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi there! Welcome to my GitHub profile.
 
-<!--
-**priyanshagra/priyanshagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Priyansh Agrawal, a passionate developer interested in web development and Machine learning.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript
+- React, Node.js, Rails, Ruby, vue.js,sql,mongodb,tensorflow,scikit-learn, python
+- Git, GitHub Actions
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshagra&show_icons=true&count_private=true&hide=prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshagra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+Happy coding! 🚀
